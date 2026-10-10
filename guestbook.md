@@ -11,5 +11,8 @@ Copy the format of the sample row and replace it with your own information.
 | No. | Name | Group / Course (SAP or PSP) | Favourite Food | 2050 App Idea (Optional) |
 |---:|---|---|---|---|
 | 1 | Workshop Facilitator | Demo Group / SAP | Nasi Lemak | Smart Campus Food Saver |
+| 2 | HakimHensem | Demo Group / PSP | Ayam Masak Merah | Smart Campus Food Saver |
+| 3 | HakimCute | Demo Group / ES3 | Ayam Goreng | Smart Campus Food Saver |
+
 
 <!-- Add your new row below this line. -->
